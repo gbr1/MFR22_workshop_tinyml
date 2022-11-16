@@ -5,7 +5,7 @@ A repo containing slides and arduino firmware used during Maker Learn 2022
 
 - [slides](./mfr_tinyml.pdf)
 - [keyword spotting: ciao](./kws/ohwd22/ohwd22.ino)
-- [motion classification](./motion/rp2040_shake/rp2040_shake.ino)
+- [motion classification: shake](./motion/rp2040_shake/rp2040_shake.ino)
 
 ## Useful links
 - [arduino nano rp2040 connect](https://store.arduino.cc/products/arduino-nano-rp2040-connect-with-headers?queryID=undefined)
